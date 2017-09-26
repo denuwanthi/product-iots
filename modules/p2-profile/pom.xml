@@ -23,12 +23,13 @@
     <parent>
         <groupId>org.wso2.iot</groupId>
         <artifactId>wso2iot-parent</artifactId>
-        <version>3.1.1</version>
+        <version>3.1.2-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>wso2iot-p2-profile</artifactId>
+  <version>3.1.1</version>
     <packaging>pom</packaging>
     <name>WSO2 IoT - P2 Profile Module</name>
     <url>http://wso2.org</url>
@@ -38,9 +39,4 @@
         <module>analytics-profile</module>
         <module>broker-profile</module>
     </modules>
-
-
-  <scm>
-    <tag>3.1.1</tag>
-  </scm>
 </project>

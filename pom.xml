@@ -23,7 +23,7 @@
     <groupId>org.wso2.iot</groupId>
     <artifactId>wso2iot-parent</artifactId>
     <packaging>pom</packaging>
-    <version>3.1.1</version>
+    <version>3.1.2-SNAPSHOT</version>
     <name>WSO2 IoT - Parent</name>
     <url>http://wso2.org</url>
     <description>WSO2 IoT Server</description>
@@ -878,7 +878,7 @@
             <dependency>
                 <groupId>org.wso2.iot</groupId>
                 <artifactId>org.wso2.carbon.iot.integration.common</artifactId>
-                <version>${project.version}</version>
+                <version>3.1.1</version>
             </dependency>
             <dependency>
                 <groupId>junit</groupId>
@@ -1006,13 +1006,13 @@
             <dependency>
                 <groupId>org.wso2.iot</groupId>
                 <artifactId>org.wso2.iot.core.admin.styles</artifactId>
-                <version>${project.version}</version>
+                <version>3.1.1</version>
             </dependency>
 
             <dependency>
                 <groupId>org.wso2.iot</groupId>
                 <artifactId>org.wso2.carbon.iot.core.integration.ui.pages</artifactId>
-                <version>${project.version}</version>
+                <version>3.1.1</version>
             </dependency>
             <!--mobile-qsg dependencies-->
             <dependency>
@@ -1671,7 +1671,7 @@
         <url>https://github.com/denuwanthi/product-iots.git</url>
         <developerConnection>scm:git:https://github.com/denuwanthi/product-iots.git</developerConnection>
         <connection>scm:git:https://github.com/denuwanthi/product-iots.git</connection>
-        <tag>3.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
