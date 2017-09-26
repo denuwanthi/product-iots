@@ -1444,7 +1444,7 @@
     </dependencyManagement>
 
     <properties>
-
+        <gpg.skip>true</gpg.skip>
         <!--Carbon kernel versions-->
         <carbon.kernel.version>4.4.16</carbon.kernel.version>
         <carbon.kernel.version.range>[4.4.0, 4.5.0)</carbon.kernel.version.range>
@@ -1668,9 +1668,9 @@
     </properties>
 
     <scm>
-        <url>https://github.com/wso2/product-iots.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/product-iots.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/product-iots.git</connection>
+        <url>https://github.com/denuwanthi/product-iots.git</url>
+        <developerConnection>scm:git:https://github.com/denuwanthi/product-iots.git</developerConnection>
+        <connection>scm:git:https://github.com/denuwanthi/product-iots.git</connection>
         <tag>HEAD</tag>
     </scm>
 
