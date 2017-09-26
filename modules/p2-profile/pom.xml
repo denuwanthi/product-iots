@@ -39,4 +39,8 @@
         <module>broker-profile</module>
     </modules>
 
+
+  <scm>
+    <tag>3.1.1</tag>
+  </scm>
 </project>

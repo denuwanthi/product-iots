@@ -37,4 +37,8 @@
         <module>org.wso2.iot.core.styles.feature</module>
     </modules>
 
+
+  <scm>
+    <tag>3.1.1</tag>
+  </scm>
 </project>

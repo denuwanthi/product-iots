@@ -831,4 +831,8 @@
 		</plugins>
 	</build>
 
+
+  <scm>
+    <tag>3.1.1</tag>
+  </scm>
 </project>
